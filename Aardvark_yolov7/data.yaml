@@ -1,0 +1,13 @@
+train: /kaggle/working/Aardvark_yolov7/train
+val: /kaggle/working/Aardvark_yolov7/valid
+
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: south-eastern-university-of-sri-lanka-63nv5
+  project: cv-fgmbs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/south-eastern-university-of-sri-lanka-63nv5/cv-fgmbs/dataset/1
